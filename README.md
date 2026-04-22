@@ -947,6 +947,8 @@ Tools and integrations that enhance the development workflow and environment man
 ### 🔒 <a name="delivery"></a>Delivery
 
 - [jordandalton/doordash-mcp-server](https://github.com/JordanDalton/DoorDash-MCP-Server) 🐍 – DoorDash Delivery (Unofficial)
+- [@striderlabs/mcp-doordash](https://github.com/markswendsen-code/mcp-doordash) 📇 ☁️ - Order food delivery via DoorDash. 15 tools for browsing restaurants, placing orders, tracking deliveries, managing favorites, and viewing order history. AI-friendly for autonomous food ordering agents.
+- [@striderlabs/mcp-instacart](https://github.com/markswendsen-code/mcp-instacart) 📇 ☁️ - Autonomous grocery shopping via Instacart. 12 tools for searching products, adding items to cart, managing delivery preferences, and completing purchases. Designed for personal agents managing household groceries.
 - [aarsiv-groups/shipi-mcp-server](https://github.com/aarsiv-groups/shipi-mcp-server) 📇 ☁️ - Shipi MCP server to create shipments, track packages, and compare rates with 18 tools for various carriers. Supports [remote MCP](https://mcp.myshipi.com/api/mcp).
 - [arthurpanhku/DragonMCP](https://github.com/arthurpanhku/DragonMCP) [![dragon-mcp MCP server](https://glama.ai/mcp/servers/arthurpanhku/dragon-mcp/badges/score.svg)](https://glama.ai/mcp/servers/arthurpanhku/dragon-mcp) 📇 🏠 ☁️ 🍎   - MCP server for Greater China local life services: Meituan/Ele.me food delivery, Didi/Meituan ride-hailing, WeChat Pay/Alipay, Amap/Baidu Maps, 12306 high-speed rail, Taobao/JD/Xianyu e-commerce, Hong Kong government e-services, and more.
 
@@ -1009,6 +1011,7 @@ MCP servers for learning management systems (LMS) and educational tools.
 MCP servers for e-commerce platforms and online store management.
 
 - [lofder/dsers-mcp-product](https://github.com/lofder/dsers-mcp-product) [![dsers-mcp-product MCP server](https://glama.ai/mcp/servers/lofder/dsers-mcp-product/badges/score.svg)](https://glama.ai/mcp/servers/lofder/dsers-mcp-product) 📇 ☁️ - Automate AliExpress/Alibaba dropshipping product import to Shopify or Wix via DSers. Bulk import, variant editing, pricing rules, and multi-store push with a single command.
+- [@striderlabs/mcp-opentable](https://github.com/markswendsen-code/mcp-opentable) 📇 ☁️ - Reserve restaurants on OpenTable. 10 tools for searching restaurants, viewing availability, making reservations, managing bookings, and reading reviews. AI-ready for autonomous personal dining agents.
 
 ### 🌳 <a name="environment-and-nature"></a>Environment & Nature
 
